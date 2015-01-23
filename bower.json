@@ -2,11 +2,10 @@
   "name": "opentip",
   "version": "2.4.6",
   "main": [
-    "css/opentip.css",
+    	"css/opentip.css",
 	"lib/opentip.js",
-	"lib/adapter-component.js"
+	"lib/adapter-native.js"
   ],
   "dependencies": {
-    "jquery": "~1.9.0"
   }
 }
